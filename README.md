@@ -2,7 +2,7 @@
 
 > A visual deep‑dive into Victoria’s State Budget—tracking revenue streams, economic drivers, and cashflow health to inform strategic planning.
 
-> Note : This project was mostly a "fun" self project I did. So, I haven't thought much of a practical value for this.
+> Note : This was mostly a "fun" self project I did. So, I haven't thought much of a practical value for this.
 
 ---
 
